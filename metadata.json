@@ -1,0 +1,6 @@
+{
+  "name": "Member Hub",
+  "description": "Polished client companion app for gym members, students, and club registrants to manage digital IDs, track attendance, complete subscription payments, and view notice boards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
